@@ -1,4 +1,4 @@
-#include<glut.h>
+#include<GL/glut.h>
 void myDisplay(void)
 { 
 	glClearColor(0,0,0,0);
